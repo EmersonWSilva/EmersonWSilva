@@ -17,7 +17,8 @@
 
 [![LeWagon](https://img.shields.io/badge/LW-LeWagon-red)](https://drive.google.com/file/d/1n9_LYhqXlw3bFnSZTySWXkwWp20JDOrb/view?usp=sharing) 
 [![Udemy](https://img.shields.io/badge/U-Udemy-purple)](https://drive.google.com/drive/folders/11s7IlSaHwwldHwYtfjH9s_zEUFo-0OK3?usp=sharing)
-[![DIO](https://img.shields.io/badge/DIO-Digital%20One%20Inovation%20-%20black)]()
+[![DIO](https://img.shields.io/badge/DIO-Digital%20Innovation%20One-black)
+]()
 
 
 ![EmersonW GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonWSilva&show_icons=true&theme=holi)
