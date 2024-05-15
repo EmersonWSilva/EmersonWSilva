@@ -1,7 +1,7 @@
 # Olá, me chamo Emerson W Silva! 👋
 ## Estou em constante aprendizado!
 
-### Experiência:
+### Aprendizados:
 
 * Bootcamp Santander 2024 - Backend com Java (DIO)
 * Bootcamp Le Wagon São Paulo - Programador Fullstack
@@ -34,7 +34,7 @@
     <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-## Metodologias Ageis
+## Metodologias Ágeis
 <div style="display inline_block"><br/>
     <img align="center" alt="Scrum" src="https://img.shields.io/badge/SC-SCRUM-blue"/>
     <img align="center" alt="Kanban" src="https://img.shields.io/badge/KB-Kanban-red"/>    
