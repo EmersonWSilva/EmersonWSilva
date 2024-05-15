@@ -22,6 +22,8 @@
 
 ![EmersonW GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonWSilva&show_icons=true&theme=holi)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonWSilva)](https://https://github.com/EmersonWSilva/github-readme-stats)
+
 ## Linguagens e Tecnologias
 
 <div style="display inline_block"><br/>
@@ -40,3 +42,12 @@
     <img align="center" alt="JIRA" src="https://img.shields.io/badge/JR-Jira-blue"/>
     <img align="center" alt="DT" src="https://img.shields.io/badge/DT-Design%20Thinking-purple"/> 
 </div>
+<br>
+
+
+<!--, HTML, CSS, Bootstrap, SQL, Git, GitHub e heroku. 
+SCRUM, Kanban, OKR
+JIRA
+Design thinking
+QA
+-->
