@@ -45,10 +45,3 @@
 </div>
 <br>
 
-
-<!--, HTML, CSS, Bootstrap, SQL, Git, GitHub e heroku. 
-SCRUM, Kanban, OKR
-JIRA
-Design thinking
-QA
--->
