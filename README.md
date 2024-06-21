@@ -16,8 +16,8 @@
 * Desenvolvimento de jogos digitais
 
 [![LeWagon](https://img.shields.io/badge/LW-LeWagon-red)](https://drive.google.com/file/d/1n9_LYhqXlw3bFnSZTySWXkwWp20JDOrb/view?usp=sharing) 
-[![Udemy](https://img.shields.io/badge/U-Udemy-purple)](https://drive.google.com/drive/folders/11s7IlSaHwwldHwYtfjH9s_zEUFo-0OK3?usp=sharing)
 [![DIO](https://img.shields.io/badge/DIO-Digital%20Innovation%20One-black)](https://www.dio.me/users/emrsnwslv)
+[![Udemy](https://img.shields.io/badge/U-Udemy-purple)](https://drive.google.com/drive/folders/11s7IlSaHwwldHwYtfjH9s_zEUFo-0OK3?usp=sharing)
 
 
 ![EmersonW GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonWSilva&show_icons=true&theme=holi)
@@ -29,10 +29,11 @@
 <div style="display inline_block"><br/>
     <img align="center" alt="RoR" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="SQL" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
 ## Metodologias Ágeis
