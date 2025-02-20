@@ -3,8 +3,9 @@
 
 ### Aprendizados:
 
+* Bootcamp Codi Academy - Programador FullStack (Node, React)
 * Bootcamp Santander 2024 - Backend com Java (DIO)
-* Bootcamp Le Wagon São Paulo - Programador Fullstack
+* Bootcamp Le Wagon São Paulo - Programador Fullstack (RubyOnRails)
 * Pós-graduação em Gestão de Projetos - FGV
 * Graduação em Jogos Digitais - IFRJ
 * Diversos cursos na Udemy
